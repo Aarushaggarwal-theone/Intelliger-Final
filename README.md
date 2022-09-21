@@ -2,4 +2,4 @@
 
 ## Intelliger: An all-in-one study tool
 
-intelliger-app.herokuapp.com
+https://intelliger-app.herokuapp.com
