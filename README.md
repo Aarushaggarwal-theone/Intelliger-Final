@@ -4,4 +4,4 @@
 
 GITHUB REPO LINK - https://github.com/notskamr/1327_HS_CODEHACK2022
 
-Live Site Link - https://intelliger-app.herokuapp.com
+Live Site Link - https://intelliger-app.onrender.com
